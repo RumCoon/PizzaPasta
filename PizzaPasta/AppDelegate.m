@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  PizzaPasta
 //
-//  Created by Данияр Габбасов on 09.03.15.
+//  Created by RumCoon on 09.03.15.
 //  Copyright (c) 2015 RumCoon. All rights reserved.
 //
 
